@@ -37,16 +37,16 @@ def get_answers():
     'Protozoarios',
     'Poriferos',
     'Equinodermos',
-    'Ctnoforos',
+    'Ctenoforos',
     'Cnidarios',
     'Nemertinos',
-    'Platermintos',
+    'Platelmintos',
     'Acantocefalos',
     'Asquelmintos',
     'Cordados', 
     'Moluscos',
     'Anelidos',
-    'Artoprodos'
+    'Artropodos'
     ]
     
     # # Create the example dataset
